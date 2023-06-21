@@ -1,5 +1,5 @@
 
-# CONCEITO PADRÃO JAVASCRIPT: 👩🏻‍💻
+# CONCEITO PADRÃO MVC JAVASCRIPT: 👩🏻‍💻
 
 
 ![img sobre funcionamento do mvc](https://github.com/GiselePorto/mvc/assets/132604471/93b3b114-4071-4a63-9269-37a606e19066)
@@ -12,7 +12,7 @@
 ## Quais papéis de cada camada? 
 
 
-● Model : A responsabilidade dos models é representar o negócio. Também é responsável pelo acesso e manipulação dos dados na sua aplicação.
+● Model:  A responsabilidade dos models é representar o negócio. Também é responsável pelo acesso e manipulação dos dados na sua aplicação.
 
 ● View : A view é responsável pela interface que será apresentada, mostrando as informações do model para o usuário.
 
@@ -47,6 +47,15 @@ Reduz o tempo de desenvolvimento de um projeto.
 <hr>
 
  O framework nada mais é do que uma ferramenta que vai te ajudar a ter como único objetivo focar em desenvolver o projeto, não em detalhes de configurações. o framework trouxe a prática de evitar que tenhamos que fazer tarefas repetitivas, automatizando parte do trabalho. Pensando numa situação de desenvolvimento, se precisarmos criar um formulário de cadastro de usuário, ele sempre vai requerer algum tipo de validação como email e senha. O framework já terá essa validação pronta para ser utilizada.
+ <br> <br> 
+ Framework é um conjunto de bibliotecas, que abordam funcionalidades, e estruturas, para o desenvolvimento de aplicações, a fim de fornecer soluções para um mesmo domínio de problema, permitindo a reutilização do seu código.
+
+ <br> <br> 
+ *Um Framework possui duas partes fundamentais:*
+
+**Hot-Spots** –> são as partes específicas de sistemas individuais, projetados para serem genéricos, os quais podem ser adaptados às necessidades da aplicação.
+
+**Frozen-Spots** -> definem a arquitetura geral de um sistema de software, seus componentes básicos e os relacionamentos entre eles, imutáveis em todas as instanciações do Framework.
 
  **Algumas vantagens:**
 
@@ -81,11 +90,13 @@ Reduz o tempo de desenvolvimento de um projeto.
 
  Como programadores, devemos reutilizar códigos existentes sempre que pudermos, assim não perdemos tempo escrevendo códigos que outro programador já escreveu.
 Em JavaScript, fazemos isso usando uma biblioteca.
-<br>
+<br> <br>
+
 Uma biblioteca é um arquivo de JavaScript que contém um monte de funções, e essas funções realizam alguma tarefa útil para sua página web.
 Vamos imaginar que precisamos calcular quantos dias existem entre duas datas utilizando JavaScript. <br> Contudo, no momento não há uma funcionalidade da linguagem que faça este cálculo para nós. Então teremos que criar uma função em que a gente passe duas datas e ela nos retornará a quantidade de dias. 
 
  Em conclusão, podemos dizer que uma biblioteca (do inglês library, não confundir com livraria que em inglês é book store) é uma coleção de códigos voltados a resolver um determinado tipo de problema.
+
 
 ## Exemplos de biblioteca JavaScript: 
 
@@ -102,6 +113,10 @@ Vamos imaginar que precisamos calcular quantos dias existem entre duas datas uti
 <hr>
 
 # FRAMEWORK VS BIBLIOTECA, QUAL O MELHOR? 📊
+![biblioteca e framework](https://github.com/GiselePorto/mvc/assets/132604471/e3f07d8c-81fc-4723-b4a6-2eadc2f420ce)
+
+<hr>
+
 
 Podemos concluir que enquanto na biblioteca nós mesmos criamos a base e o fluxo, no framework já temos toda a estrutura pronta para utilizarmos e seguirmos. Mas isso não significa necessariamente que um é melhor do que o outro. São ferramentas diferentes para propósitos diferentes.
 
@@ -111,16 +126,20 @@ Ao passo que no Angular nós já temos toda a estrutura pronta, nos poupando des
 
 ## Links para saber mais sobre o conteúdo: 
 
- **Conceito JavaScript:**
- * 1-https://www.devmedia.com.br/introducao-ao-padrao-mvc/
- * 2-https://www.treinaweb.com.br/blog/o-que-e-mvc
+**Conceito MVC JavaScript:**
+ *  [*Introdução ao padrão MVC DevMedia*](https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308)
+ * 	[*O que é MVC? TreinaWeb*](https://www.treinaweb.com.br/blog/o-que-e-mvc)
+ *  [*Vídeo : canal Código FonteTV*](https://youtu.be/jyTNhT67ZyY)
 
-   **Conceito Framework:**
-  * 1-https://www.alura.com.br/artigos/framework-o-que-e-pra-que-serve-essa-ferramenta?gclid=EAIaIQobChMIyP2rk-7U_wIVFkJIAB06QgP7EAAYASAAEgJd1PD_BwE
- 
-   **Conceito biblioteca JS:**
-  * 1- https://pt.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/whats-a-js-library
-  * 2- https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca
+**Conceito Framework:**
+  *  [*O que é um Framework? Balta.io*](https://balta.io/blog/o-que-e-um-framework)
+  *  [*Para que serve Framework? Alura*](https://www.alura.com.br/artigos/framework-o-que-e-pra-que-serve-essa-ferramenta?gclid=EAIaIQobChMIyP2rk-7U_wIVFkJIAB06QgP7EAAYASAAEgJd1PD_BwE)
+  
+     
+**Conceito biblioteca JS:**
+  *   [*O que é biblioteca JS? - KhanAcademy*](https://pt.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/whats-a-js-library)
+  *   [*Difereça entre Biblioteca e Framework - TreinaWeb*](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
+
 
 <hr>
 
