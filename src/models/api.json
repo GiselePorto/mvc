@@ -1,0 +1,59 @@
+{
+    "Lista dos melhores jogos do Final Fantasy": [
+        {
+            "Nome": "Final Fantasy V",
+            "Gênero": "RPG",
+            "Protagonista": "Bartz Klauser",
+            "Vilão": "Exdeath",
+            "Tipo de Combate": "Active Time Battle",
+            "Plataforma": "Game boy, Nitendo Switch, Snes",
+            "Data de Lançamento": "6 de dezembro de 1992",
+            "Diretor": "Hironobu Sakaguchi",
+            "Zerado" : true
+        },
+        {
+            "Nome": "Final Fantasy IV",
+            "Gênero": "RPG",
+            "Protagonista": "Cecil Harvey",
+            "Vilão": "Golbez",
+            "Tipo de Combate": "Active Time Battle",
+            "Plataforma": "Snes, PS Portable",
+            "Data de Lançamento": "18 de fevereiro de 2008",
+            "Diretor": "Tetsuya Nomura",
+            "Zerado" : true
+        },
+        {
+            "Nome": "Final Fantasy VI",
+            "Gênero": "RPG",
+            "Protagonista": "Terra Branford",
+            "Vilão": "Kefka Palazzo",
+            "Tipo de Combate": "Active Time Battle",
+            "Plataforma": "Snes,  Nintendo Switch",
+            "Data de Lançamento": "2 de abril de 1994",
+            "Diretor": "Yoshinori Kitase",
+            "Zerado" : true
+        },
+        {
+            "Nome": "Final Fantasy XV",
+            "Gênero": "RPG",
+            "Protagonista": "Noctis Lucis Caelum",
+            "Vilão": "Ardyn Izunia",
+            "Tipo de Combate": "Active Time Battle + ação",
+            "Plataforma": "PS4, Xbox One, Microsoft Windows",
+            "Data de Lançamento": "29 de novembro de 2016",
+            "Diretor": "Hajime Tabata",
+            "Zerado" : false
+        },
+        {
+            "Nome": "Final Fantasy VII",
+            "Gênero": "RPG",
+            "Protagonista": "Cloud Strife",
+            "Vilão": "Sephiroth",
+            "Tipo de Combate": "Active Time Battle",
+            "Plataforma": "Nintendo Switch, PS4, Xbox  One",
+            "Data de Lançamento": "31 de janeiro de 1997",
+            "Diretor": "Yoshinori Kitase",
+            "Zerado" : false
+        }
+    ]
+}
