@@ -3,7 +3,7 @@
 
 ![img sobre funcionamento do mvc](https://github.com/GiselePorto/mvc/assets/132604471/93b3b114-4071-4a63-9269-37a606e19066)
 
-<<<<<<< HEAD
+
 =======
 # CONCEITO PADRÃO MVC JAVASCRIPT: 👩🏻‍💻
 
