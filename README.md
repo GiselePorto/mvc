@@ -1,16 +1,9 @@
-# CONCEITO PADRÃO MVC JAVASCRIPT: 👩🏻‍💻
+# CONCEITO PADRÃO MVC JAVASCRIPT:  👩🏻‍💻 <h1>
 
 
 ![img sobre funcionamento do mvc](https://github.com/GiselePorto/mvc/assets/132604471/93b3b114-4071-4a63-9269-37a606e19066)
 
-<<<<<<< HEAD
-=======
-# CONCEITO PADRÃO MVC JAVASCRIPT: 👩🏻‍💻
 
-
-![img sobre funcionamento do mvc](https://github.com/GiselePorto/mvc/assets/132604471/93b3b114-4071-4a63-9269-37a606e19066)
-
->>>>>>> 5512945d04c0d8cf47bf9eb155e6b07eeaa45960
 <hr>
 
   A implementação de cada uma das camadas no MVC proporciona aos desenvolvedores uma manutenção mais fácil e o possível reaproveitamento de classes e partes do projeto em projetos futuros.
@@ -48,7 +41,7 @@ Reduz o tempo de desenvolvimento de um projeto.
 
  <hr>
 
-# CONCEITO FRAMEWORK JAVASCRIPT: 🖱️
+# CONCEITO FRAMEWORK JAVASCRIPT: 🖱️ <h2>
 ![img framework colorida](https://github.com/GiselePorto/mvc/assets/132604471/b6b548f3-5ae4-4f1d-bedb-a448f043e54c)
 
 <hr>
@@ -56,12 +49,11 @@ Reduz o tempo de desenvolvimento de um projeto.
  O framework nada mais é do que uma ferramenta que vai te ajudar a ter como único objetivo focar em desenvolver o projeto, não em detalhes de configurações. o framework trouxe a prática de evitar que tenhamos que fazer tarefas repetitivas, automatizando parte do trabalho. Pensando numa situação de desenvolvimento, se precisarmos criar um formulário de cadastro de usuário, ele sempre vai requerer algum tipo de validação como email e senha. O framework já terá essa validação pronta para ser utilizada.
  <br> <br> 
  Framework é um conjunto de bibliotecas, que abordam funcionalidades, e estruturas, para o desenvolvimento de aplicações, a fim de fornecer soluções para um mesmo domínio de problema, permitindo a reutilização do seu código.
-<<<<<<< HEAD
-
+ 
  <br> <br> 
 =======
  <br> 
->>>>>>> 5512945d04c0d8cf47bf9eb155e6b07eeaa45960
+
  *Um Framework possui duas partes fundamentais:*
 
 **Hot-Spots** –> são as partes específicas de sistemas individuais, projetados para serem genéricos, os quais podem ser adaptados às necessidades da aplicação.
@@ -94,7 +86,7 @@ Reduz o tempo de desenvolvimento de um projeto.
 
 <hr>
 
-# CONCEITO BIBLIOTECA JAVASCRIPT: 📚
+# CONCEITO BIBLIOTECA JAVASCRIPT: 📚 <h2>
 ![img Acessando biblioteca código](https://github.com/GiselePorto/mvc/assets/132604471/5af138df-8ffa-4c31-96ff-917b72bcd204)
 
 <hr>
@@ -123,7 +115,7 @@ Vamos imaginar que precisamos calcular quantos dias existem entre duas datas uti
 
 <hr>
 
-# FRAMEWORK VS BIBLIOTECA, QUAL O MELHOR? 📊
+# FRAMEWORK VS BIBLIOTECA, QUAL O MELHOR? 📊 <h2>
 ![biblioteca e framework](https://github.com/GiselePorto/mvc/assets/132604471/e3f07d8c-81fc-4723-b4a6-2eadc2f420ce)
 
 <hr>
@@ -157,8 +149,5 @@ Ao passo que no Angular nós já temos toda a estrutura pronta, nos poupando des
 
 
 ![Gif legal meme](https://github.com/GiselePorto/mvc/assets/132604471/f137e9bd-8a2c-44c0-9691-50bafdd82a81)
-<<<<<<< HEAD
-=======
 
->>>>>>> 5512945d04c0d8cf47bf9eb155e6b07eeaa45960
 
