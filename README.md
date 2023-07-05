@@ -127,6 +127,23 @@ Ao passo que no Angular nós já temos toda a estrutura pronta, nos poupando des
 
 <hr>
 
+# CONEXÃO COM BANCO DE DADOS: NOSQL-MONGODB 📊 <h2>
+
+![acessando banco de dados após erros](https://github.com/GiselePorto/mvc/assets/132604471/4e733a98-050f-4fb9-afa6-d9deb12abe37)
+<hr>
+
+* Acessar MongoDB Atlas e fazer cadastro free.
+* Clicar em connect, copiar e colar informações (menor comando de git, maior colar no file do vscode).
+* Verificar se todos os apis necessários e usados estão baixados.
+* Colocar no terminal ***" npm run start "*** e ver se o servidor rodará.
+
+* PS: se der erro em questão de modules, vá ao package.json e verifique o type. Se seus files utilizarem required será "commonjs",
+  se for **import x export** será "module".
+
+  <hr>
+
+
+
 ## Links para saber mais sobre o conteúdo: 
 
 **Conceito MVC JavaScript:**
@@ -142,6 +159,11 @@ Ao passo que no Angular nós já temos toda a estrutura pronta, nos poupando des
 **Conceito biblioteca JS:**
   *   [*O que é biblioteca JS? - KhanAcademy*](https://pt.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/whats-a-js-library)
   *   [*Difereça entre Biblioteca e Framework - TreinaWeb*](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
+
+**Sobre MongoDB**
+
+*   [*O que é NoSQL?*](https://blog.revelo.com.br/banco-de-dados-nosql)
+*   [*Site de cadastro MongoDB*](https://www.mongodb.com/atlas/database)
 
 
 <hr>
