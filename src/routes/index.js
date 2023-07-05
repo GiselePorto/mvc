@@ -1,9 +1,7 @@
-const  express = require ('express');
+import  Router  from 'express';
+const router = Router();
+
  //Importando biblioteca
-
-
-const router = express.Router; //Declarando router e o chamando pela biblioteca
-
 //.get é um método de requisição
 // Uma variável apenas acende quando é chamada em algum momento após ser declarada
 
@@ -14,4 +12,4 @@ router.get('/', function (req, res) {
   })
 })
 
-module.exports = router;
+export default router; 
