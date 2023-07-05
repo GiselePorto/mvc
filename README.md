@@ -160,6 +160,11 @@ Ao passo que no Angular nós já temos toda a estrutura pronta, nos poupando des
   *   [*O que é biblioteca JS? - KhanAcademy*](https://pt.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/whats-a-js-library)
   *   [*Difereça entre Biblioteca e Framework - TreinaWeb*](https://www.treinaweb.com.br/blog/qual-a-diferenca-entre-framework-e-biblioteca)
 
+**Sobre MongoDB**
+
+*   [*O que é NoSQL?*](https://blog.revelo.com.br/banco-de-dados-nosql)
+*   [*Site de cadastro MongoDB*](https://www.mongodb.com/atlas/database)
+
 
 <hr>
 
